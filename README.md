@@ -6,7 +6,6 @@ In this project I was tasked to model the shortfall between the energy generated
 
 I carried out the following to meet the project's objective
 
-
 Analysis of the supplied data;
 identified potential errors in the data and clean the existing data set;
 Determination of additional features can be added to enrich the data set;
